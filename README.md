@@ -1,4 +1,4 @@
-# JKFLIPFLOP-USING-IF-ELSE
+# EXP-07: JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
 
@@ -50,8 +50,8 @@ step-6 Run the program.
 **PROGRAM**
 ```
 Program for flipflops and verify its truth table in quartus using Verilog programming.
-Developed by:Kavinraja D
-RegisterNumber:212222240047
+Developed by: N.Naghul varshan
+RegisterNumber:24901302
 ```
 ```verilog
 module JKFLIPFLOP(q, qb,j,k,clock,reset);
@@ -101,4 +101,4 @@ endmodule
 
 **RESULTS**
 
-Thus,the code executed successfully.
+The code executed successfully.
